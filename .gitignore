@@ -11,3 +11,14 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+
+local-config.php
+.git-rewrite/
+*.local.*
+*.remote.*
+*.base.*
+*.backup.*
+*.orig*
+ 
+#ElasticBeanstalk Configs we won't need in the repo
+scripts/

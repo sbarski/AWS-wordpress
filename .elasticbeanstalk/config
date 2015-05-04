@@ -1,0 +1,6 @@
+[global]
+ApplicationName=
+AwsCredentialFile=.elasticbeanstalk/aws_credentials
+DevToolsEndpoint=git.elasticbeanstalk.ap-southeast-2.amazonaws.com
+EnvironmentName=
+Region=ap-southeast-2

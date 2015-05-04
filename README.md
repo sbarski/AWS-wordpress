@@ -1,2 +1,2 @@
-# AWS-wordpress
-A clean templated installation of Wordpress for AWS
+# agency
+The IT Consultancy Website
